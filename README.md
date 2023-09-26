@@ -4,7 +4,7 @@
 A news website to discover the latest headlines and in-depth stories with this user-friendly ui.
 
 ## Live demo
-https://graphql.siamahnaf.com/
+https://news-sh.netlify.app/
 
 ## Run Locally
 - **Download:** Start by downloading the code.
@@ -14,17 +14,17 @@ https://graphql.siamahnaf.com/
 
 ## Key features
 - Created with NextJS and Tailwind css
-- Specially designed for converting any graphql schema to typescript interface
-- 100% accurate type conversion
+- Integrated news api
+- Authentication system
 - Beautiful and interactive design
-- A copy button for copying the converted interface
+- Latest headlines and categories
 
 ## Tech Toolset
 - React.js
 - Next.js
 - Material UI
   
-<img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1hnSjW2F7h6IPJglpml9rPNaw7chwLWYZ" width="225px" height="30px" />
+<img src="https://lh3.googleusercontent.com/d/1GTNFYoW8YfRF8AM5Is6rKsIB4No1ImJ_" width="34px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1zquFI2JBL5KaJVxhyWFh1NhBy6_8bTkl" width="135px" height="30px" /> <img src="https://lh3.googleusercontent.com/d/1hnSjW2F7h6IPJglpml9rPNaw7chwLWYZ" width="30px" height="30px" />
 
 ## Screenshot
 <img src="https://res.cloudinary.com/dbjrx698c/image/upload/v1695752469/scrnli_9_27_2023_12-20-55_AM_mvckbv.png" width="100%" height="100%" style="display: block; margin: 0 auto;">
