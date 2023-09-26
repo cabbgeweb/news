@@ -13,7 +13,7 @@ https://news-sh.netlify.app/
 - **Access:** Simply open your web browser and navigate to `localhost:3000`.
 
 ## Key features
-- Created with NextJS and Tailwind css
+- Created with NextJS and Material UI
 - Integrated news api
 - Authentication system
 - Beautiful and interactive design
